@@ -1,0 +1,6 @@
+
+
+HTTPSConnectionPool(host='raw.githubusercontent.com', port=443): Max retries exceeded with url: /KasRoudra/PyPhisher/main/files/pyproject.toml (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fdf47560850>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution'))
+No connection adapters were found for '\x1b[A\x1b[A\x1b[B\x1b[B\thttps://www.instagram.com/12_santi_privv/'
+HTTPSConnectionPool(host='api.shrtco.de', port=443): Max retries exceeded with url: /v2/shorten?url=https://findlaw-volkswagen-presently-cache.trycloudflare.com (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f8273188f50>: Failed to establish a new connection: [Errno -2] Name or service not known'))
+HTTPSConnectionPool(host='api.shrtco.de', port=443): Max retries exceeded with url: /v2/shorten?url=https://kshrt.vercel.app/cf/findlaw-volkswagen-presently-cache (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f8273188a90>: Failed to establish a new connection: [Errno -2] Name or service not known'))

@@ -1,0 +1,375 @@
+IP                   : 181.46.9.117
+IP Type              : IPv4
+User OS              : Unknown OS Platform
+User Agent           : WhatsApp/2.23.20.0
+Version              : 
+Browser              : Unknown Browser
+Location             : Ituzaingó, Argentina, South America
+GeoLocation(lat, lon): -34.6570243, -58.6753978
+Currency             : Argentine Peso
+
+IP                   : 173.252.107.5
+IP Type              : IPv4
+User OS              : Unknown OS Platform
+User Agent           : facebookexternalhit/1.1 (+http://www.facebook.com/externalhit_uatext.php)
+Version              : 
+Browser              : Unknown Browser
+Location             : Menlo Park, United States, North America
+GeoLocation(lat, lon): 37.4529598, -122.1817252
+Currency             : US Dollar
+
+IP                   : 181.13.68.47
+IP Type              : IPv4
+User OS              : Android
+User Agent           : Mozilla/5.0 (Linux; Android 8.1.0; SM-J260M Build/M1AJB; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/120.0.6099.145 Mobile Safari/537.36 Instagram 312.1.0.34.111 Android (27/8.1.0; 240dpi; 540x888; samsung; SM-J260M; j2corelte; samsungexynos7570; es_US; 548323740)
+Version              : 8.1.0;
+Browser              : Handheld Browser
+Location             : Buenos Aires, Argentina, South America
+GeoLocation(lat, lon): -34.6036844, -58.3815591
+Currency             : Argentine Peso
+
+IP                   : 190.183.247.68
+IP Type              : IPv4
+User OS              : Android
+User Agent           : Mozilla/5.0 (Linux; Android 11; A50UNS Build/RP1A.201005.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/120.0.6099.145 Mobile Safari/537.36 Instagram 313.0.0.26.328 Android (30/11; 204dpi; 480x854; MOBIWIRE/NOBLEX; A50UNS; A50UNS; sp9832e_1h10_go; es_AR; 554218466)
+Version              : 11;
+Browser              : Handheld Browser
+Location             : Posadas, Argentina, South America
+GeoLocation(lat, lon): -27.3621374, -55.9008746
+Currency             : Argentine Peso
+
+IP                   : 190.183.247.68
+IP Type              : IPv4
+User OS              : Android
+User Agent           : Mozilla/5.0 (Linux; Android 11; A50UNS Build/RP1A.201005.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/120.0.6099.145 Mobile Safari/537.36 Instagram 313.0.0.26.328 Android (30/11; 204dpi; 480x854; MOBIWIRE/NOBLEX; A50UNS; A50UNS; sp9832e_1h10_go; es_AR; 554218466)
+Version              : 11;
+Browser              : Handheld Browser
+Location             : Posadas, Argentina, South America
+GeoLocation(lat, lon): -27.3621374, -55.9008746
+Currency             : Argentine Peso
+
+IP                   : 181.46.9.117
+IP Type              : IPv4
+User OS              : Unknown OS Platform
+User Agent           : WhatsApp/2.23.20.0
+Version              : 
+Browser              : Unknown Browser
+Location             : Ituzaingó, Argentina, South America
+GeoLocation(lat, lon): -34.6570243, -58.6753978
+Currency             : Argentine Peso
+
+IP                   : 173.252.107.119
+IP Type              : IPv4
+User OS              : Unknown OS Platform
+User Agent           : facebookexternalhit/1.1 (+http://www.facebook.com/externalhit_uatext.php)
+Version              : 
+Browser              : Unknown Browser
+Location             : Menlo Park, United States, North America
+GeoLocation(lat, lon): 37.4529598, -122.1817252
+Currency             : US Dollar
+
+IP                   : 186.143.136.235
+IP Type              : IPv4
+User OS              : Android
+User Agent           : Mozilla/5.0 (Linux; Android 12; SM-A135M Build/SP1A.210812.016; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/120.0.6099.144 Mobile Safari/537.36 Instagram 312.1.0.34.111 Android (31/12; 450dpi; 1080x2208; samsung; SM-A135M; a13; exynos850; es_US; 548323733)
+Version              : 12;
+Browser              : Handheld Browser
+Location             : Buenos Aires, Argentina, South America
+GeoLocation(lat, lon): -34.6036844, -58.3815591
+Currency             : Argentine Peso
+
+IP                   : 186.143.136.235
+IP Type              : IPv4
+User OS              : Android
+User Agent           : Mozilla/5.0 (Linux; Android 12; SM-A135M Build/SP1A.210812.016; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/120.0.6099.144 Mobile Safari/537.36 Instagram 312.1.0.34.111 Android (31/12; 450dpi; 1080x2208; samsung; SM-A135M; a13; exynos850; es_US; 548323733)
+Version              : 12;
+Browser              : Handheld Browser
+Location             : Buenos Aires, Argentina, South America
+GeoLocation(lat, lon): -34.6036844, -58.3815591
+Currency             : Argentine Peso
+
+IP                   : 181.46.9.117
+IP Type              : IPv4
+User OS              : Android
+User Agent           : Mozilla/5.0 (Linux; Android 13; SM-A045M Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/120.0.6099.193 Mobile Safari/537.36 Instagram 313.0.0.26.328 Android (33/13; 300dpi; 720x1527; samsung; SM-A045M; a04; mt6765; es_ES; 554218529)
+Version              : 13;
+Browser              : Handheld Browser
+Location             : Ituzaingó, Argentina, South America
+GeoLocation(lat, lon): -34.6570243, -58.6753978
+Currency             : Argentine Peso
+
+IP                   : 181.46.9.117
+IP Type              : IPv4
+User OS              : Unknown OS Platform
+User Agent           : WhatsApp/2.23.20.0
+Version              : 
+Browser              : Unknown Browser
+Location             : Ituzaingó, Argentina, South America
+GeoLocation(lat, lon): -34.6570243, -58.6753978
+Currency             : Argentine Peso
+
+IP                   : 181.165.124.48
+IP Type              : IPv4
+User OS              : Android
+User Agent           : Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+Version              : 10;
+Browser              : Handheld Browser
+Location             : Palermo, Argentina, South America
+GeoLocation(lat, lon): -34.5711496, -58.4232966
+Currency             : Argentine Peso
+
+IP                   : 181.46.9.117
+IP Type              : IPv4
+User OS              : Linux
+User Agent           : Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+Version              : x86_64
+Browser              : Chrome
+Location             : Ituzaingó, Argentina, South America
+GeoLocation(lat, lon): -34.6570243, -58.6753978
+Currency             : Argentine Peso
+
+IP                   : 190.173.77.211
+IP Type              : IPv4
+User OS              : Unknown OS Platform
+User Agent           : WhatsApp/2.23.20.0
+Version              : 
+Browser              : Unknown Browser
+Location             : Buenos Aires, Argentina, South America
+GeoLocation(lat, lon): -34.6036844, -58.3815591
+Currency             : Argentine Peso
+
+IP                   : 181.46.9.117
+IP Type              : IPv4
+User OS              : Linux
+User Agent           : Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+Version              : x86_64
+Browser              : Chrome
+Location             : Ituzaingó, Argentina, South America
+GeoLocation(lat, lon): -34.6570243, -58.6753978
+Currency             : Argentine Peso
+
+IP                   : 127.0.0.1
+User OS              : Unknown OS Platform
+Version              : 
+Browser              : Unknown Browser
+
+IP                   : 190.173.119.152
+IP Type              : IPv4
+User OS              : Linux
+User Agent           : Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0
+Version              : x86_64;
+Browser              : Firefox
+Location             : Ramos Mejía, Argentina, South America
+GeoLocation(lat, lon): -34.6549073, -58.5536355
+Currency             : Argentine Peso
+
+IP                   : 190.173.119.152
+IP Type              : IPv4
+User OS              : Linux
+User Agent           : Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0
+Version              : x86_64;
+Browser              : Firefox
+Location             : Ramos Mejía, Argentina, South America
+GeoLocation(lat, lon): -34.6549073, -58.5536355
+Currency             : Argentine Peso
+
+IP                   : 190.173.119.152
+IP Type              : IPv4
+User OS              : Unknown OS Platform
+User Agent           : WhatsApp/2.23.20.0
+Version              : 
+Browser              : Unknown Browser
+Location             : Ramos Mejía, Argentina, South America
+GeoLocation(lat, lon): -34.6549073, -58.5536355
+Currency             : Argentine Peso
+
+IP                   : 190.173.119.152
+IP Type              : IPv4
+User OS              : Unknown OS Platform
+User Agent           : WhatsApp/2.23.20.0
+Version              : 
+Browser              : Unknown Browser
+Location             : Ramos Mejía, Argentina, South America
+GeoLocation(lat, lon): -34.6549073, -58.5536355
+Currency             : Argentine Peso
+
+IP                   : 190.19.155.79
+IP Type              : IPv4
+User OS              : Android
+User Agent           : Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Mobile Safari/537.36
+Version              : 10;
+Browser              : Handheld Browser
+Location             : Buenos Aires, Argentina, South America
+GeoLocation(lat, lon): -34.6036844, -58.3815591
+Currency             : Argentine Peso
+
+IP                   : 190.19.155.79
+IP Type              : IPv4
+User OS              : Android
+User Agent           : Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Mobile Safari/537.36
+Version              : 10;
+Browser              : Handheld Browser
+Location             : Buenos Aires, Argentina, South America
+GeoLocation(lat, lon): -34.6036844, -58.3815591
+Currency             : Argentine Peso
+
+IP                   : 190.173.93.93
+IP Type              : IPv4
+User OS              : Linux
+User Agent           : Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+Version              : x86_64
+Browser              : Chrome
+Location             : San Telmo, Argentina, South America
+GeoLocation(lat, lon): -34.6211839, -58.3731163
+Currency             : Argentine Peso
+
+IP                   : 190.173.93.93
+IP Type              : IPv4
+User OS              : Unknown OS Platform
+User Agent           : WhatsApp/2.23.20.0
+Version              : 
+Browser              : Unknown Browser
+Location             : San Telmo, Argentina, South America
+GeoLocation(lat, lon): -34.6211839, -58.3731163
+Currency             : Argentine Peso
+
+IP                   : 69.63.184.117
+IP Type              : IPv4
+User OS              : Unknown OS Platform
+User Agent           : facebookexternalhit/1.1 (+http://www.facebook.com/externalhit_uatext.php)
+Version              : 
+Browser              : Unknown Browser
+Location             : Menlo Park, United States, North America
+GeoLocation(lat, lon): 37.4529598, -122.1817252
+Currency             : US Dollar
+
+IP                   : 181.45.161.250
+IP Type              : IPv4
+User OS              : Windows 10
+User Agent           : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+Version              : 10.0;
+Browser              : Chrome
+Location             : San Justo, Argentina, South America
+GeoLocation(lat, lon): -34.6874084, -58.5632629
+Currency             : Argentine Peso
+
+IP                   : 190.173.73.125
+IP Type              : IPv4
+User OS              : Linux
+User Agent           : Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+Version              : x86_64
+Browser              : Chrome
+Location             : Lomas del Mirador, Argentina, South America
+GeoLocation(lat, lon): -34.6663627, -58.5297986
+Currency             : Argentine Peso
+
+IP                   : 190.173.73.125
+IP Type              : IPv4
+User OS              : Unknown OS Platform
+User Agent           : WhatsApp/2.23.20.0
+Version              : 
+Browser              : Unknown Browser
+Location             : Lomas del Mirador, Argentina, South America
+GeoLocation(lat, lon): -34.6663627, -58.5297986
+Currency             : Argentine Peso
+
+IP                   : 69.63.184.13
+IP Type              : IPv4
+User OS              : Unknown OS Platform
+User Agent           : facebookexternalhit/1.1 (+http://www.facebook.com/externalhit_uatext.php)
+Version              : 
+Browser              : Unknown Browser
+Location             : Menlo Park, United States, North America
+GeoLocation(lat, lon): 37.4529598, -122.1817252
+Currency             : US Dollar
+
+IP                   : 186.158.228.11
+IP Type              : IPv4
+User OS              : Android
+User Agent           : Mozilla/5.0 (Linux; Android 12; SM-M236B Build/SP1A.210812.016; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/122.0.6261.119 Mobile Safari/537.36 Instagram 323.0.0.35.65 Android (31/12; 420dpi; 1080x2299; samsung; SM-M236B; m23xq; qcom; es_US; 578014047)
+Version              : 12;
+Browser              : Handheld Browser
+Location             : Posadas, Argentina, South America
+GeoLocation(lat, lon): -27.3621374, -55.9008746
+Currency             : Argentine Peso
+
+IP                   : 190.173.73.125
+IP Type              : IPv4
+User OS              : Android
+User Agent           : Mozilla/5.0 (Linux; Android 13; SM-A045M Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/122.0.6261.119 Mobile Safari/537.36 Instagram 322.0.0.37.95 Android (33/13; 300dpi; 720x1527; samsung; SM-A045M; a04; mt6765; es_ES; 575346385)
+Version              : 13;
+Browser              : Handheld Browser
+Location             : Lomas del Mirador, Argentina, South America
+GeoLocation(lat, lon): -34.6663627, -58.5297986
+Currency             : Argentine Peso
+
+IP                   : 186.158.228.11
+IP Type              : IPv4
+User OS              : Android
+User Agent           : Mozilla/5.0 (Linux; Android 12; SM-M236B Build/SP1A.210812.016; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/122.0.6261.119 Mobile Safari/537.36 Instagram 323.0.0.35.65 Android (31/12; 420dpi; 1080x2299; samsung; SM-M236B; m23xq; qcom; es_US; 578014047)
+Version              : 12;
+Browser              : Handheld Browser
+Location             : Posadas, Argentina, South America
+GeoLocation(lat, lon): -27.3621374, -55.9008746
+Currency             : Argentine Peso
+
+IP                   : 190.173.73.125
+IP Type              : IPv4
+User OS              : Android
+User Agent           : Mozilla/5.0 (Linux; Android 13; SM-A045M Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/122.0.6261.119 Mobile Safari/537.36 Instagram 322.0.0.37.95 Android (33/13; 300dpi; 720x1527; samsung; SM-A045M; a04; mt6765; es_ES; 575346385)
+Version              : 13;
+Browser              : Handheld Browser
+Location             : Lomas del Mirador, Argentina, South America
+GeoLocation(lat, lon): -34.6663627, -58.5297986
+Currency             : Argentine Peso
+
+IP                   : 190.173.73.125
+IP Type              : IPv4
+User OS              : Android
+User Agent           : Mozilla/5.0 (Linux; Android 13; SM-A045M Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/122.0.6261.119 Mobile Safari/537.36 Instagram 322.0.0.37.95 Android (33/13; 300dpi; 720x1527; samsung; SM-A045M; a04; mt6765; es_ES; 575346385)
+Version              : 13;
+Browser              : Handheld Browser
+Location             : Lomas del Mirador, Argentina, South America
+GeoLocation(lat, lon): -34.6663627, -58.5297986
+Currency             : Argentine Peso
+
+IP                   : 186.158.228.11
+IP Type              : IPv4
+User OS              : Android
+User Agent           : Mozilla/5.0 (Linux; Android 12; SM-M236B Build/SP1A.210812.016; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/122.0.6261.119 Mobile Safari/537.36 Instagram 323.0.0.35.65 Android (31/12; 420dpi; 1080x2299; samsung; SM-M236B; m23xq; qcom; es_US; 578014047)
+Version              : 12;
+Browser              : Handheld Browser
+Location             : Posadas, Argentina, South America
+GeoLocation(lat, lon): -27.3621374, -55.9008746
+Currency             : Argentine Peso
+
+IP                   : 186.158.228.11
+IP Type              : IPv4
+User OS              : Android
+User Agent           : Mozilla/5.0 (Linux; Android 12; SM-M236B Build/SP1A.210812.016; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/122.0.6261.119 Mobile Safari/537.36 Instagram 323.0.0.35.65 Android (31/12; 420dpi; 1080x2299; samsung; SM-M236B; m23xq; qcom; es_US; 578014047)
+Version              : 12;
+Browser              : Handheld Browser
+Location             : Posadas, Argentina, South America
+GeoLocation(lat, lon): -27.3621374, -55.9008746
+Currency             : Argentine Peso
+
+IP                   : 186.158.228.11
+IP Type              : IPv4
+User OS              : Android
+User Agent           : Mozilla/5.0 (Linux; Android 12; SM-M236B Build/SP1A.210812.016; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/122.0.6261.119 Mobile Safari/537.36 Instagram 323.0.0.35.65 Android (31/12; 420dpi; 1080x2299; samsung; SM-M236B; m23xq; qcom; es_US; 578014047)
+Version              : 12;
+Browser              : Handheld Browser
+Location             : Posadas, Argentina, South America
+GeoLocation(lat, lon): -27.3621374, -55.9008746
+Currency             : Argentine Peso
+
+IP                   : 186.158.228.11
+IP Type              : IPv4
+User OS              : Android
+User Agent           : Mozilla/5.0 (Linux; Android 12; SM-M236B Build/SP1A.210812.016; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/122.0.6261.119 Mobile Safari/537.36 Instagram 323.0.0.35.65 Android (31/12; 420dpi; 1080x2299; samsung; SM-M236B; m23xq; qcom; es_US; 578014047)
+Version              : 12;
+Browser              : Handheld Browser
+Location             : Posadas, Argentina, South America
+GeoLocation(lat, lon): -27.3621374, -55.9008746
+Currency             : Argentine Peso
+
